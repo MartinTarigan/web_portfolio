@@ -42,7 +42,7 @@ export function Hero() {
         <div className="text-center space-y-8">
           <div className="relative w-32 h-32 mx-auto mb-8">
             <Image
-              src="/photo.png?height=128&width=128"
+              src="/photo.jpg?height=128&width=128"
               alt="Profile"
               fill
               className="rounded-full border-4 border-primary/30"
